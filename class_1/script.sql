@@ -31,3 +31,5 @@ CREATE TABLE custumers(
 );
 
 
+-- custumers database entry.
+INSERT INTO custumers (first_name, last_name, phone, email) VALUES('Adevair', 'Vitorio', '309999999', 'adevair@gmail.com');
